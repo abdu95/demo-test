@@ -2,3 +2,5 @@ First line text
 Second line text
 
 Text from feature branch
+
+Text from master branch
